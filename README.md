@@ -64,4 +64,4 @@ Recommendations: Suggestions for future improvements, such as collecting more da
 
 ## 9. Appendix
 Code Snippets: Any additional code, functions, or processes used in the analysis are included in the appendix for reference.
-[Jupyter Notebook]<https://github.com/SatyJais/Predicting_employee_attrition/blob/main/google-ada-certification-capstone.ipynb>
+[Jupyter Notebook](https://github.com/SatyJais/Predicting_employee_attrition/blob/main/google-ada-certification-capstone.ipynb)
